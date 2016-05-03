@@ -40,9 +40,9 @@ wget http://a.mbbsindia.com/tomcat/tomcat-7/v7.0.69/bin/apache-tomcat-7.0.69.tar
 wget
 
 
-Needs to be done:----
-intelliJ IDEA and all the project checkouts from gitlab.
-tomcat-server 7,8 - setting the debug config
-setup the db connection in mysql-workbench and make a bkp of connections.
-atom editor - you will have to download it and then dpkg install.
-creating profile preferences for terminal also.
+#Needs to be done:----
+#intelliJ IDEA and all the project checkouts from gitlab.
+#tomcat-server 7,8 - setting the debug config
+#setup the db connection in mysql-workbench and make a bkp of connections.
+#atom editor - you will have to download it and then dpkg install.
+#creating profile preferences for terminal also.
